@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipa06&label=Profile%20views&color=0e75b6&style=flat" alt="sudipa06" /> </p>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="img" align="right" width="400"/>
                   I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
@@ -34,7 +34,7 @@
 <br></br>
 <p>
 <a href="https://github.com/sudipa06/30dayofJavascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudipa06&repo=30dayofJavascript&theme=dark" />
 </a>
 
 </p>
