@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipa06&label=Profile%20views&color=0e75b6&style=flat" alt="sudipa06" /> </p>
-<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="img" align="right" width="400"/>
+<img src="https://camo.githubusercontent.com/9ca8cbe881ff830d65320cd27860c5ea0eab35b5ac027fe7af79370c3e5cde60/68747470733a2f2f696d672e776174747061642e636f6d2f366132343162643565393833346235376233303535663437623530306237316263396530373035322f3638373437343730373333613266326637333333326536313664363137613666366536313737373332653633366636643266373736313734373437303631363432643664363536343639363132643733363537323736363936333635326635333734366637323739343936643631363736353266366334393566356637333739373436663264353336383633353534313364336432643339333433383338333533313332333933393265333133363333333233313330333133393332363236363632363136363334363133353339333433383336333933323338333733353333333232653637363936363f733d66697426773d3130323426683d373230" alt="img" align="right" width="400"/>
                   I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
@@ -43,7 +43,7 @@
 <br></br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sudipa06?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sudipa06?new=1" /></a><a href="https://ko-fi.com/ko-fi.com/sudipa06"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/sudipa06" /></a></p>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sudipa06?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sudipa06?new=1" /></a><a href=""> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/sudipa06" /></a></p>
 <br></br>
 <br></br>
 <a href="https://github.com/sudipa06/github-readme-activity-graph"><img alt="sudipa06 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudipa06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
