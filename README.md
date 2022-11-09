@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sudipa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudipa06" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shubham-jha-61824512b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipa06" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudipa-hazra-58a0a6190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipa06" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sudipa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sudipa06" height="30" width="40" /></a>
 </p>
 
@@ -43,7 +43,7 @@
 <br></br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sudipa06?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sudipa06?new=1" /></a><a href="https://ko-fi.com/ko-fi.com/subhu4997"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/subhu499" /></a></p>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sudipa06?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sudipa06?new=1" /></a><a href="https://ko-fi.com/ko-fi.com/sudipa06"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/sudipa06" /></a></p>
 <br></br>
 <br></br>
 <a href="https://github.com/sudipa06/github-readme-activity-graph"><img alt="sudipa06 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudipa06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
