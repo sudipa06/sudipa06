@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/sudipa-hazra-58a0a6190/" target="blank">Let's get in touch!</a>
+- 📬 How to reach me: <a href="sudipahazra.haldia@gmail.com" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
