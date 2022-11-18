@@ -7,10 +7,10 @@
                   I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Visualization.
+- 🌱 I’m currently learning React, MongoDB, and Typescript
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about HTML,CSS,JavaScript,ReactJs
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/sudipa-hazra-58a0a6190/" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
