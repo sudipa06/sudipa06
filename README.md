@@ -7,7 +7,7 @@
                   I am student at MASAI SCHOOL
 
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning React, MongoDB, and Typescript
+- 🌱 I’m currently learning React, Redux, MongoDB, Express
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
 - 💬 Ask me about HTML,CSS,JavaScript,ReactJs
