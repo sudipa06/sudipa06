@@ -14,7 +14,6 @@
 - 📬  How to reach me <b>*sudipahazra.haldia@gmail.com*</b>
 - 👨‍💻 Know more about me <b><a href="https://sudipa06.github.io" target="_blank">PORTFOLIO</a></b>
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1MLLu_axk8hqAEPrjvgJezKlJqAeoUP69/view?usp=sharing" target="_blank">RESUME</a></b>
-- 🧗 I try to : Go beyond and push the bounds
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
 <br>
