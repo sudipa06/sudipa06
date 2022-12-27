@@ -13,7 +13,7 @@
 - 💬 Ask me about HTML,CSS,JavaScript,ReactJs
 - 📬  How to reach me <b>*sudipahazra.haldia@gmail.com*</b>
 - 👨‍💻 Know more about me <b><a href="https://sudipa06.github.io" target="_blank">PORTFOLIO</a></b>
-- 📄 Check out my <b><a href="https://drive.google.com/drive/u/0/folders/1ik5qHS5cz0PS9hmbrR7MlX5NlfG0662G" target="_blank">RESUME</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">RESUME</a></b>
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
 <br>
