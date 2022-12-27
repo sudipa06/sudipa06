@@ -18,12 +18,18 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sudipa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudipa06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sudipa-hazra-58a0a6190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipa06" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sudipa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sudipa06" height="30" width="40" /></a>
+</p> -->
+<h3 align="left">Connect with me on:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sudipa-hazra-58a0a6190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sudipa06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudipa06" height="30" width="40" /></a>
 </p>
+
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
