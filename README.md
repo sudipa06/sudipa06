@@ -91,6 +91,9 @@
    <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipa06&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="sudipa06"/>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudipa06&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="sudipa06" /></p>
+  <p>
+  <a href="https://github.com/sudipa06/github-readme-stats"><img alt="sudipa hazra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipa06&langs_count=8&count_private=true&exclude_repo=sudipa06.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=vision-friendly-dark" /></a>
+ </p>
    
 <br></br>
 <br></br>
