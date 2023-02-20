@@ -24,7 +24,7 @@
 
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1MLLu_axk8hqAEPrjvgJezKlJqAeoUP69/view?usp=sharing" target="_blank">RESUME</a></b>
 
-- ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
+
 
 <br>
 
