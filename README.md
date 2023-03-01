@@ -88,12 +88,18 @@
 <br></br> -->
    
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipa06&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="sudipa06" /></p> -->
-   <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipa06&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="sudipa06"/>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=sudipa06&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="sudipa06" /></p>
-   <a href="https://github.com/sudipa06/github-readme-stats">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipa06&&theme=highcontrast" alt="sudipa06" />
- </a>
+   <h2 align="center">📊 My Github Stats</h2>
+<!--          <br/>    -->
+          <p align="center">      
+        <img alt="sudipa06 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipa06&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </p>      
+<!--            <br/> -->
+         <p align="center">
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sudipa06 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moumita7&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+             <p align="center">                                                                                                 
+          <img alt="sudipa06 Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudipa06&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          </p>                                                                
+<!--       <br/> -->
    
 
   
