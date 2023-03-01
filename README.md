@@ -113,6 +113,4 @@
 <!-- <br></br>
 <br></br> -->
 <!-- <a href="https://github.com/sudipa06/github-readme-activity-graph"><img alt="sudipa06 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudipa06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+
