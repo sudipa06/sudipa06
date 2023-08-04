@@ -22,7 +22,7 @@
 
 - 👨‍💻 Know more about me <b><a href="https://sudipa06.github.io" target="_blank">PORTFOLIO</a></b>
 
-- 📄 Check out my <b><a href="https://drive.google.com/file/d/1MLLu_axk8hqAEPrjvgJezKlJqAeoUP69/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/file/d/1Iq7-dTBAGWx-HFOwU8iH1VSqBWaTiMCj/view?usp=sharing" target="_blank">RESUME</a></b>
 
 
 
